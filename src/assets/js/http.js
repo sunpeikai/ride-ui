@@ -1,5 +1,5 @@
 import axios from 'axios'
-import message from './assets/js/message'
+import message from './message'
 // import store from '@/store/index'
 
 // 基础axios请求地址
